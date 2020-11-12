@@ -1,0 +1,562 @@
+"","iyear","gname","attacktype1_txt","count"
+"1",1970,"Irish Republican Army (IRA)","Armed Assault",5
+"2",1970,"Irish Republican Army (IRA)","Bombing/Explosion",2
+"3",1970,"Irish Republican Extremists","Armed Assault",1
+"4",1970,"Protestant extremists","Armed Assault",1
+"5",1970,"Saor Eire (Irish Republican Group)","Armed Assault",1
+"6",1970,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"7",1971,"Irish Republican Army (IRA)","Armed Assault",1
+"8",1971,"Irish Republican Army (IRA)","Assassination",45
+"9",1971,"Irish Republican Army (IRA)","Bombing/Explosion",14
+"10",1971,"Irish Republican Extremists","Assassination",3
+"11",1971,"Irish Republican Extremists","Bombing/Explosion",1
+"12",1971,"Official Irish Republican Army (OIRA)","Assassination",5
+"13",1971,"Official Irish Republican Army (OIRA)","Bombing/Explosion",2
+"14",1971,"Protestant extremists","Assassination",1
+"15",1971,"Protestant extremists","Bombing/Explosion",2
+"16",1971,"Protestant extremists","Facility/Infrastructure Attack",1
+"17",1971,"Saor Eire (Irish Republican Group)","Assassination",1
+"18",1971,"Ulster Volunteer Force (UVF)","Bombing/Explosion",3
+"19",1972,"Irish Republican Army (IRA)","Armed Assault",32
+"20",1972,"Irish Republican Army (IRA)","Assassination",77
+"21",1972,"Irish Republican Army (IRA)","Bombing/Explosion",45
+"22",1972,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",1
+"23",1972,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",7
+"24",1972,"Irish Republican Extremists","Assassination",8
+"25",1972,"Irish Republican Extremists","Bombing/Explosion",2
+"26",1972,"Official Irish Republican Army (OIRA)","Armed Assault",2
+"27",1972,"Official Irish Republican Army (OIRA)","Assassination",8
+"28",1972,"Official Irish Republican Army (OIRA)","Bombing/Explosion",3
+"29",1972,"Protestant extremists","Armed Assault",5
+"30",1972,"Protestant extremists","Assassination",39
+"31",1972,"Protestant extremists","Bombing/Explosion",4
+"32",1972,"Red Hand Commandos","Assassination",3
+"33",1972,"Ulster Freedom Fighters (UFF)","Armed Assault",2
+"34",1972,"Ulster Freedom Fighters (UFF)","Assassination",20
+"35",1972,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",2
+"36",1972,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"37",1972,"Ulster Volunteer Force (UVF)","Assassination",17
+"38",1972,"Ulster Volunteer Force (UVF)","Bombing/Explosion",5
+"39",1973,"Irish Republican Army (IRA)","Armed Assault",4
+"40",1973,"Irish Republican Army (IRA)","Assassination",62
+"41",1973,"Irish Republican Army (IRA)","Bombing/Explosion",38
+"42",1973,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",3
+"43",1973,"Irish Republican Army (IRA)","Hijacking",2
+"44",1973,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",2
+"45",1973,"Irish Republican Extremists","Assassination",3
+"46",1973,"Official Irish Republican Army (OIRA)","Assassination",3
+"47",1973,"Protestant extremists","Armed Assault",1
+"48",1973,"Protestant extremists","Assassination",30
+"49",1973,"Protestant extremists","Bombing/Explosion",2
+"50",1973,"Protestant extremists","Hostage Taking (Kidnapping)",1
+"51",1973,"Ulster Freedom Fighters (UFF)","Assassination",13
+"52",1973,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"53",1973,"Ulster Volunteer Force (UVF)","Armed Assault",2
+"54",1973,"Ulster Volunteer Force (UVF)","Assassination",16
+"55",1973,"Ulster Volunteer Force (UVF)","Bombing/Explosion",8
+"56",1974,"Irish Republican Army (IRA)","Armed Assault",4
+"57",1974,"Irish Republican Army (IRA)","Assassination",58
+"58",1974,"Irish Republican Army (IRA)","Bombing/Explosion",50
+"59",1974,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"60",1974,"Irish Republican Extremists","Assassination",6
+"61",1974,"Irish Republican Extremists","Bombing/Explosion",1
+"62",1974,"Official Irish Republican Army (OIRA)","Assassination",3
+"63",1974,"Protestant Action Group","Assassination",4
+"64",1974,"Protestant extremists","Armed Assault",2
+"65",1974,"Protestant extremists","Assassination",20
+"66",1974,"Protestant extremists","Bombing/Explosion",2
+"67",1974,"Ulster Freedom Fighters (UFF)","Armed Assault",3
+"68",1974,"Ulster Freedom Fighters (UFF)","Assassination",13
+"69",1974,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",2
+"70",1974,"Ulster Freedom Fighters (UFF)","Unarmed Assault",1
+"71",1974,"Ulster Volunteer Force (UVF)","Armed Assault",3
+"72",1974,"Ulster Volunteer Force (UVF)","Assassination",17
+"73",1974,"Ulster Volunteer Force (UVF)","Bombing/Explosion",10
+"74",1975,"Irish National Liberation Army (INLA)","Armed Assault",1
+"75",1975,"Irish National Liberation Army (INLA)","Assassination",5
+"76",1975,"Irish National Liberation Army (INLA)","Bombing/Explosion",1
+"77",1975,"Irish Republican Army (IRA)","Armed Assault",4
+"78",1975,"Irish Republican Army (IRA)","Assassination",33
+"79",1975,"Irish Republican Army (IRA)","Bombing/Explosion",33
+"80",1975,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",4
+"81",1975,"Irish Republican Army (IRA)","Unknown",1
+"82",1975,"Irish Republican Extremists","Armed Assault",1
+"83",1975,"Irish Republican Extremists","Assassination",15
+"84",1975,"Irish Republican Extremists","Bombing/Explosion",3
+"85",1975,"Official Irish Republican Army (OIRA)","Armed Assault",1
+"86",1975,"Official Irish Republican Army (OIRA)","Assassination",9
+"87",1975,"Protestant Action Group","Bombing/Explosion",1
+"88",1975,"Protestant extremists","Armed Assault",2
+"89",1975,"Protestant extremists","Assassination",25
+"90",1975,"Protestant extremists","Bombing/Explosion",7
+"91",1975,"Protestant extremists","Hostage Taking (Kidnapping)",1
+"92",1975,"Red Hand Commandos","Bombing/Explosion",1
+"93",1975,"Ulster Freedom Fighters (UFF)","Assassination",5
+"94",1975,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",2
+"95",1975,"Ulster Volunteer Force (UVF)","Armed Assault",4
+"96",1975,"Ulster Volunteer Force (UVF)","Assassination",25
+"97",1975,"Ulster Volunteer Force (UVF)","Bombing/Explosion",10
+"98",1975,"Ulster Volunteer Force (UVF)","Hostage Taking (Kidnapping)",1
+"99",1976,"Irish National Liberation Army (INLA)","Assassination",3
+"100",1976,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"101",1976,"Irish Republican Army (IRA)","Armed Assault",3
+"102",1976,"Irish Republican Army (IRA)","Assassination",59
+"103",1976,"Irish Republican Army (IRA)","Bombing/Explosion",27
+"104",1976,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",4
+"105",1976,"Irish Republican Extremists","Armed Assault",2
+"106",1976,"Irish Republican Extremists","Assassination",10
+"107",1976,"Irish Republican Extremists","Bombing/Explosion",3
+"108",1976,"Protestant extremists","Assassination",21
+"109",1976,"Protestant extremists","Bombing/Explosion",12
+"110",1976,"Protestant extremists","Hostage Taking (Barricade Incident)",1
+"111",1976,"Protestant extremists","Hostage Taking (Kidnapping)",1
+"112",1976,"Red Hand Commandos","Assassination",2
+"113",1976,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"114",1976,"Ulster Freedom Fighters (UFF)","Assassination",18
+"115",1976,"Ulster Freedom Fighters (UFF)","Unknown",1
+"116",1976,"Ulster Volunteer Force (UVF)","Armed Assault",8
+"117",1976,"Ulster Volunteer Force (UVF)","Assassination",14
+"118",1976,"Ulster Volunteer Force (UVF)","Bombing/Explosion",3
+"119",1977,"Irish National Liberation Army (INLA)","Assassination",2
+"120",1977,"Irish Republican Army (IRA)","Armed Assault",24
+"121",1977,"Irish Republican Army (IRA)","Assassination",35
+"122",1977,"Irish Republican Army (IRA)","Bombing/Explosion",22
+"123",1977,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",28
+"124",1977,"Official Irish Republican Army (OIRA)","Armed Assault",2
+"125",1977,"Official Irish Republican Army (OIRA)","Assassination",1
+"126",1977,"Protestant extremists","Armed Assault",2
+"127",1977,"Protestant extremists","Assassination",2
+"128",1977,"Ulster Freedom Fighters (UFF)","Armed Assault",2
+"129",1977,"Ulster Freedom Fighters (UFF)","Assassination",3
+"130",1977,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"131",1977,"Ulster Volunteer Force (UVF)","Armed Assault",3
+"132",1977,"Ulster Volunteer Force (UVF)","Assassination",2
+"133",1977,"Ulster Volunteer Force (UVF)","Bombing/Explosion",5
+"134",1977,"Ulster Volunteer Force (UVF)","Unknown",1
+"135",1978,"Irish National Liberation Army (INLA)","Bombing/Explosion",1
+"136",1978,"Irish National Liberation Army (INLA)","Facility/Infrastructure Attack",2
+"137",1978,"Irish Republican Army (IRA)","Armed Assault",22
+"138",1978,"Irish Republican Army (IRA)","Assassination",13
+"139",1978,"Irish Republican Army (IRA)","Bombing/Explosion",50
+"140",1978,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",1
+"141",1978,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",2
+"142",1978,"Irish Republican Extremists","Armed Assault",1
+"143",1978,"Protestant extremists","Armed Assault",2
+"144",1978,"Protestant extremists","Unarmed Assault",1
+"145",1978,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"146",1978,"Ulster Volunteer Force (UVF)","Armed Assault",2
+"147",1978,"Ulster Volunteer Force (UVF)","Assassination",1
+"148",1978,"Ulster Volunteer Force (UVF)","Bombing/Explosion",2
+"149",1979,"Irish National Liberation Army (INLA)","Assassination",5
+"150",1979,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"151",1979,"Irish Republican Army (IRA)","Armed Assault",30
+"152",1979,"Irish Republican Army (IRA)","Assassination",44
+"153",1979,"Irish Republican Army (IRA)","Bombing/Explosion",92
+"154",1979,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",33
+"155",1979,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",2
+"156",1979,"Irish Republican Army (IRA)","Unknown",6
+"157",1979,"Irish Republican Extremists","Assassination",1
+"158",1979,"Irish Republican Extremists","Bombing/Explosion",1
+"159",1979,"Official Irish Republican Army (OIRA)","Unarmed Assault",1
+"160",1979,"Protestant extremists","Armed Assault",6
+"161",1979,"Protestant extremists","Assassination",2
+"162",1979,"Protestant extremists","Bombing/Explosion",2
+"163",1979,"Protestant extremists","Hostage Taking (Kidnapping)",1
+"164",1979,"Ulster Freedom Fighters (UFF)","Armed Assault",3
+"165",1979,"Ulster Freedom Fighters (UFF)","Assassination",1
+"166",1979,"Ulster Volunteer Force (UVF)","Armed Assault",5
+"167",1979,"Ulster Volunteer Force (UVF)","Unknown",1
+"168",1980,"Irish National Liberation Army (INLA)","Assassination",4
+"169",1980,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"170",1980,"Irish National Liberation Army (INLA)","Facility/Infrastructure Attack",1
+"171",1980,"Irish National Liberation Army (INLA)","Hostage Taking (Kidnapping)",1
+"172",1980,"Irish Republican Army (IRA)","Armed Assault",11
+"173",1980,"Irish Republican Army (IRA)","Assassination",26
+"174",1980,"Irish Republican Army (IRA)","Bombing/Explosion",43
+"175",1980,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",7
+"176",1980,"Irish Republican Army (IRA)","Hostage Taking (Barricade Incident)",1
+"177",1980,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",4
+"178",1980,"Irish Republican Army (IRA)","Unknown",1
+"179",1980,"Irish Republican Extremists","Armed Assault",1
+"180",1980,"Irish Republican Extremists","Assassination",3
+"181",1980,"Protestant extremists","Armed Assault",1
+"182",1980,"Protestant extremists","Assassination",3
+"183",1980,"Protestant extremists","Bombing/Explosion",2
+"184",1980,"Ulster Freedom Fighters (UFF)","Armed Assault",2
+"185",1980,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",2
+"186",1980,"Ulster Freedom Fighters (UFF)","Unknown",1
+"187",1980,"Ulster Volunteer Force (UVF)","Armed Assault",2
+"188",1980,"Ulster Volunteer Force (UVF)","Assassination",2
+"189",1981,"Irish National Liberation Army (INLA)","Assassination",10
+"190",1981,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"191",1981,"Irish Republican Army (IRA)","Armed Assault",17
+"192",1981,"Irish Republican Army (IRA)","Assassination",36
+"193",1981,"Irish Republican Army (IRA)","Bombing/Explosion",43
+"194",1981,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",2
+"195",1981,"Irish Republican Army (IRA)","Hostage Taking (Barricade Incident)",1
+"196",1981,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",4
+"197",1981,"Protestant extremists","Armed Assault",1
+"198",1981,"Protestant extremists","Assassination",2
+"199",1981,"Protestant extremists","Unknown",1
+"200",1981,"Ulster Freedom Fighters (UFF)","Armed Assault",3
+"201",1981,"Ulster Freedom Fighters (UFF)","Assassination",4
+"202",1981,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"203",1981,"Ulster Volunteer Force (UVF)","Assassination",2
+"204",1982,"Irish National Liberation Army (INLA)","Assassination",9
+"205",1982,"Irish National Liberation Army (INLA)","Bombing/Explosion",6
+"206",1982,"Irish Republican Army (IRA)","Armed Assault",3
+"207",1982,"Irish Republican Army (IRA)","Assassination",24
+"208",1982,"Irish Republican Army (IRA)","Bombing/Explosion",24
+"209",1982,"Irish Republican Army (IRA)","Hostage Taking (Barricade Incident)",3
+"210",1982,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"211",1982,"Irish Republican Army (IRA)","Unknown",1
+"212",1982,"Irish Republican Extremists","Unknown",1
+"213",1982,"Protestant extremists","Assassination",9
+"214",1982,"Protestant extremists","Hostage Taking (Kidnapping)",1
+"215",1982,"Ulster Freedom Fighters (UFF)","Assassination",2
+"216",1982,"Ulster Volunteer Force (UVF)","Assassination",3
+"217",1982,"Ulster Volunteer Force (UVF)","Hostage Taking (Kidnapping)",2
+"218",1982,"Ulster Volunteer Force (UVF)","Unarmed Assault",2
+"219",1983,"Irish National Liberation Army (INLA)","Armed Assault",1
+"220",1983,"Irish National Liberation Army (INLA)","Assassination",6
+"221",1983,"Irish National Liberation Army (INLA)","Bombing/Explosion",1
+"222",1983,"Irish National Liberation Army (INLA)","Facility/Infrastructure Attack",2
+"223",1983,"Irish National Liberation Army (INLA)","Hostage Taking (Kidnapping)",2
+"224",1983,"Irish Republican Army (IRA)","Armed Assault",15
+"225",1983,"Irish Republican Army (IRA)","Assassination",43
+"226",1983,"Irish Republican Army (IRA)","Bombing/Explosion",50
+"227",1983,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",25
+"228",1983,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"229",1983,"Irish Republican Extremists","Assassination",2
+"230",1983,"Irish Republican Extremists","Unknown",1
+"231",1983,"Protestant extremists","Assassination",7
+"232",1983,"Ulster Freedom Fighters (UFF)","Assassination",1
+"233",1983,"Ulster Volunteer Force (UVF)","Assassination",1
+"234",1984,"Irish National Liberation Army (INLA)","Assassination",2
+"235",1984,"Irish Republican Army (IRA)","Armed Assault",19
+"236",1984,"Irish Republican Army (IRA)","Assassination",28
+"237",1984,"Irish Republican Army (IRA)","Bombing/Explosion",63
+"238",1984,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",7
+"239",1984,"Irish Republican Army (IRA)","Unknown",1
+"240",1984,"Irish Republican Extremists","Assassination",1
+"241",1984,"Protestant extremists","Assassination",2
+"242",1984,"Ulster Freedom Fighters (UFF)","Assassination",2
+"243",1984,"Ulster Volunteer Force (UVF)","Assassination",3
+"244",1985,"Irish National Liberation Army (INLA)","Assassination",1
+"245",1985,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"246",1985,"Irish Republican Army (IRA)","Armed Assault",4
+"247",1985,"Irish Republican Army (IRA)","Assassination",19
+"248",1985,"Irish Republican Army (IRA)","Bombing/Explosion",27
+"249",1985,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",1
+"250",1985,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"251",1985,"Irish Republican Army (IRA)","Unknown",1
+"252",1985,"Ulster Freedom Fighters (UFF)","Assassination",2
+"253",1985,"Ulster Volunteer Force (UVF)","Assassination",2
+"254",1986,"Irish National Liberation Army (INLA)","Assassination",1
+"255",1986,"Irish National Liberation Army (INLA)","Bombing/Explosion",2
+"256",1986,"Irish People's Liberation Organization (IPLO)","Assassination",1
+"257",1986,"Irish Republican Army (IRA)","Armed Assault",1
+"258",1986,"Irish Republican Army (IRA)","Assassination",22
+"259",1986,"Irish Republican Army (IRA)","Bombing/Explosion",20
+"260",1986,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"261",1986,"Irish Republican Army (IRA)","Unknown",1
+"262",1986,"Irish Republican Extremists","Unarmed Assault",1
+"263",1986,"Protestant extremists","Assassination",7
+"264",1986,"Protestant extremists","Unarmed Assault",1
+"265",1986,"Protestant extremists","Unknown",1
+"266",1986,"Ulster Freedom Fighters (UFF)","Assassination",4
+"267",1986,"Ulster Freedom Fighters (UFF)","Facility/Infrastructure Attack",1
+"268",1986,"Ulster Volunteer Force (UVF)","Assassination",2
+"269",1986,"Ulster Volunteer Force (UVF)","Unarmed Assault",1
+"270",1987,"Irish National Liberation Army (INLA)","Assassination",7
+"271",1987,"Irish National Liberation Army (INLA)","Hostage Taking (Kidnapping)",1
+"272",1987,"Irish People's Liberation Organization (IPLO)","Assassination",6
+"273",1987,"Irish Republican Army (IRA)","Armed Assault",5
+"274",1987,"Irish Republican Army (IRA)","Assassination",39
+"275",1987,"Irish Republican Army (IRA)","Bombing/Explosion",34
+"276",1987,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"277",1987,"Irish Republican Extremists","Assassination",1
+"278",1987,"Protestant extremists","Assassination",3
+"279",1987,"Ulster Freedom Fighters (UFF)","Assassination",12
+"280",1987,"Ulster Freedom Fighters (UFF)","Facility/Infrastructure Attack",18
+"281",1987,"Ulster Volunteer Force (UVF)","Assassination",2
+"282",1988,"Irish National Liberation Army (INLA)","Armed Assault",1
+"283",1988,"Irish National Liberation Army (INLA)","Assassination",1
+"284",1988,"Irish People's Liberation Organization (IPLO)","Assassination",3
+"285",1988,"Irish Republican Army (IRA)","Armed Assault",8
+"286",1988,"Irish Republican Army (IRA)","Assassination",35
+"287",1988,"Irish Republican Army (IRA)","Bombing/Explosion",82
+"288",1988,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",6
+"289",1988,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"290",1988,"Protestant extremists","Armed Assault",1
+"291",1988,"Protestant extremists","Assassination",2
+"292",1988,"Protestant extremists","Bombing/Explosion",1
+"293",1988,"Ulster Freedom Fighters (UFF)","Assassination",7
+"294",1988,"Ulster Volunteer Force (UVF)","Assassination",6
+"295",1989,"Irish People's Liberation Organization (IPLO)","Assassination",1
+"296",1989,"Irish Republican Army (IRA)","Armed Assault",10
+"297",1989,"Irish Republican Army (IRA)","Assassination",38
+"298",1989,"Irish Republican Army (IRA)","Bombing/Explosion",73
+"299",1989,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",1
+"300",1989,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",2
+"301",1989,"Protestant extremists","Assassination",4
+"302",1989,"Protestant extremists","Bombing/Explosion",2
+"303",1989,"Ulster Freedom Fighters (UFF)","Assassination",3
+"304",1989,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"305",1989,"Ulster Volunteer Force (UVF)","Assassination",5
+"306",1990,"Irish National Liberation Army (INLA)","Assassination",1
+"307",1990,"Irish People's Liberation Organization (IPLO)","Assassination",1
+"308",1990,"Irish Republican Army (IRA)","Armed Assault",7
+"309",1990,"Irish Republican Army (IRA)","Assassination",36
+"310",1990,"Irish Republican Army (IRA)","Bombing/Explosion",61
+"311",1990,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",3
+"312",1990,"Protestant extremists","Armed Assault",1
+"313",1990,"Protestant extremists","Assassination",7
+"314",1990,"Ulster Freedom Fighters (UFF)","Assassination",3
+"315",1990,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"316",1990,"Ulster Volunteer Force (UVF)","Assassination",8
+"317",1991,"Irish National Liberation Army (INLA)","Assassination",1
+"318",1991,"Irish National Liberation Army (INLA)","Bombing/Explosion",1
+"319",1991,"Irish National Liberation Army (INLA)","Hostage Taking (Kidnapping)",1
+"320",1991,"Irish People's Liberation Organization (IPLO)","Armed Assault",1
+"321",1991,"Irish People's Liberation Organization (IPLO)","Assassination",2
+"322",1991,"Irish Republican Army (IRA)","Armed Assault",12
+"323",1991,"Irish Republican Army (IRA)","Assassination",36
+"324",1991,"Irish Republican Army (IRA)","Bombing/Explosion",60
+"325",1991,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",91
+"326",1991,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",3
+"327",1991,"Protestant extremists","Armed Assault",2
+"328",1991,"Protestant extremists","Assassination",20
+"329",1991,"Ulster Freedom Fighters (UFF)","Armed Assault",2
+"330",1991,"Ulster Freedom Fighters (UFF)","Assassination",10
+"331",1991,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"332",1991,"Ulster Freedom Fighters (UFF)","Facility/Infrastructure Attack",11
+"333",1991,"Ulster Volunteer Force (UVF)","Assassination",2
+"334",1992,"Irish National Liberation Army (INLA)","Assassination",2
+"335",1992,"Irish National Liberation Army (INLA)","Facility/Infrastructure Attack",8
+"336",1992,"Irish People's Liberation Organization (IPLO)","Assassination",6
+"337",1992,"Irish Republican Army (IRA)","Armed Assault",18
+"338",1992,"Irish Republican Army (IRA)","Assassination",27
+"339",1992,"Irish Republican Army (IRA)","Bombing/Explosion",107
+"340",1992,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",31
+"341",1992,"Irish Republican Army (IRA)","Hijacking",1
+"342",1992,"Protestant extremists","Armed Assault",1
+"343",1992,"Protestant extremists","Assassination",15
+"344",1992,"Red Hand Commandos","Assassination",2
+"345",1992,"Ulster Freedom Fighters (UFF)","Assassination",12
+"346",1992,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"347",1992,"Ulster Freedom Fighters (UFF)","Facility/Infrastructure Attack",6
+"348",1992,"Ulster Volunteer Force (UVF)","Assassination",8
+"349",1994,"Irish National Liberation Army (INLA)","Armed Assault",1
+"350",1994,"Irish National Liberation Army (INLA)","Assassination",2
+"351",1994,"Irish Republican Army (IRA)","Armed Assault",21
+"352",1994,"Irish Republican Army (IRA)","Assassination",18
+"353",1994,"Irish Republican Army (IRA)","Bombing/Explosion",57
+"354",1994,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",47
+"355",1994,"Irish Republican Army (IRA)","Hostage Taking (Barricade Incident)",3
+"356",1994,"Irish Republican Army (IRA)","Unknown",1
+"357",1994,"Irish Republican Extremists","Assassination",1
+"358",1994,"Irish Republican Extremists","Facility/Infrastructure Attack",1
+"359",1994,"Protestant extremists","Armed Assault",7
+"360",1994,"Protestant extremists","Assassination",6
+"361",1994,"Protestant extremists","Facility/Infrastructure Attack",2
+"362",1994,"Red Hand Commandos","Assassination",1
+"363",1994,"Ulster Freedom Fighters (UFF)","Armed Assault",3
+"364",1994,"Ulster Freedom Fighters (UFF)","Assassination",21
+"365",1994,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",10
+"366",1994,"Ulster Volunteer Force (UVF)","Armed Assault",3
+"367",1994,"Ulster Volunteer Force (UVF)","Assassination",13
+"368",1994,"Ulster Volunteer Force (UVF)","Bombing/Explosion",5
+"369",1995,"Irish Republican Army (IRA)","Assassination",3
+"370",1995,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"371",1995,"Protestant extremists","Assassination",1
+"372",1995,"Red Hand Commandos","Assassination",1
+"373",1995,"Ulster Volunteer Force (UVF)","Bombing/Explosion",1
+"374",1996,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",3
+"375",1996,"Irish National Liberation Army (INLA)","Armed Assault",1
+"376",1996,"Irish National Liberation Army (INLA)","Assassination",6
+"377",1996,"Irish Republican Army (IRA)","Assassination",1
+"378",1996,"Irish Republican Army (IRA)","Bombing/Explosion",11
+"379",1996,"Ulster Volunteer Force (UVF)","Assassination",2
+"380",1997,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",3
+"381",1997,"Irish National Liberation Army (INLA)","Assassination",2
+"382",1997,"Irish National Liberation Army (INLA)","Bombing/Explosion",1
+"383",1997,"Irish Republican Army (IRA)","Armed Assault",7
+"384",1997,"Irish Republican Army (IRA)","Bombing/Explosion",7
+"385",1997,"Irish Republican Extremists","Assassination",1
+"386",1997,"Loyalist Volunteer Forces (LVF)","Armed Assault",2
+"387",1997,"Loyalist Volunteer Forces (LVF)","Assassination",4
+"388",1997,"Loyalist Volunteer Forces (LVF)","Bombing/Explosion",3
+"389",1997,"Loyalist Volunteer Forces (LVF)","Unknown",1
+"390",1997,"Protestant extremists","Armed Assault",2
+"391",1997,"Protestant extremists","Assassination",2
+"392",1997,"Protestant extremists","Unarmed Assault",2
+"393",1997,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"394",1997,"Ulster Freedom Fighters (UFF)","Assassination",1
+"395",1997,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"396",1997,"Ulster Volunteer Force (UVF)","Assassination",3
+"397",1998,"Continuity Irish Republican Army (CIRA)","Armed Assault",2
+"398",1998,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",6
+"399",1998,"Irish National Liberation Army (INLA)","Armed Assault",2
+"400",1998,"Irish National Liberation Army (INLA)","Bombing/Explosion",4
+"401",1998,"Irish Republican Army (IRA)","Armed Assault",4
+"402",1998,"Irish Republican Army (IRA)","Bombing/Explosion",8
+"403",1998,"Loyalist Volunteer Forces (LVF)","Armed Assault",3
+"404",1998,"Loyalist Volunteer Forces (LVF)","Bombing/Explosion",1
+"405",1998,"Loyalist Volunteer Forces (LVF)","Facility/Infrastructure Attack",9
+"406",1998,"Orange Volunteers (OV)","Bombing/Explosion",2
+"407",1998,"Real Irish Republican Army (RIRA)","Bombing/Explosion",4
+"408",1999,"Continuity Irish Republican Army (CIRA)","Facility/Infrastructure Attack",1
+"409",1999,"Irish Republican Army (IRA)","Armed Assault",5
+"410",1999,"Irish Republican Army (IRA)","Bombing/Explosion",2
+"411",1999,"Irish Republican Army (IRA)","Hostage Taking (Kidnapping)",1
+"412",1999,"Irish Republican Army (IRA)","Unarmed Assault",2
+"413",1999,"Irish Republican Extremists","Armed Assault",2
+"414",1999,"Loyalist Volunteer Forces (LVF)","Armed Assault",1
+"415",1999,"Orange Volunteers (OV)","Bombing/Explosion",7
+"416",1999,"Red Hand Defenders (RHD)","Bombing/Explosion",6
+"417",1999,"Ulster Freedom Fighters (UFF)","Armed Assault",2
+"418",1999,"Ulster Volunteer Force (UVF)","Assassination",1
+"419",2000,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",4
+"420",2000,"Irish Republican Army (IRA)","Armed Assault",3
+"421",2000,"Irish Republican Army (IRA)","Bombing/Explosion",3
+"422",2000,"Irish Republican Extremists","Bombing/Explosion",2
+"423",2000,"Loyalist Volunteer Forces (LVF)","Assassination",1
+"424",2000,"Loyalist Volunteer Forces (LVF)","Bombing/Explosion",1
+"425",2000,"Protestant extremists","Armed Assault",3
+"426",2000,"Protestant extremists","Facility/Infrastructure Attack",3
+"427",2000,"Real Irish Republican Army (RIRA)","Bombing/Explosion",7
+"428",2000,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"429",2000,"Ulster Volunteer Force (UVF)","Armed Assault",2
+"430",2000,"Ulster Volunteer Force (UVF)","Bombing/Explosion",3
+"431",2001,"Continuity Irish Republican Army (CIRA)","Assassination",1
+"432",2001,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",1
+"433",2001,"Dissident Republicans","Bombing/Explosion",1
+"434",2001,"Protestant extremists","Bombing/Explosion",8
+"435",2001,"Real Irish Republican Army (RIRA)","Bombing/Explosion",9
+"436",2001,"Red Hand Defenders (RHD)","Armed Assault",4
+"437",2001,"Red Hand Defenders (RHD)","Assassination",2
+"438",2001,"Red Hand Defenders (RHD)","Bombing/Explosion",9
+"439",2001,"South Londonderry Volunteers (SLV)","Bombing/Explosion",2
+"440",2001,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",3
+"441",2001,"Ulster Freedom Fighters (UFF)","Unarmed Assault",1
+"442",2001,"Ulster Volunteer Force (UVF)","Bombing/Explosion",1
+"443",2002,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",1
+"444",2002,"Irish Republican Army (IRA)","Armed Assault",1
+"445",2002,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"446",2002,"Real Irish Republican Army (RIRA)","Bombing/Explosion",4
+"447",2002,"Red Hand Defenders (RHD)","Armed Assault",1
+"448",2003,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",2
+"449",2003,"Dissident Republicans","Bombing/Explosion",1
+"450",2003,"Irish Republican Army (IRA)","Armed Assault",1
+"451",2003,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"452",2003,"Irish Republican Extremists","Hijacking",1
+"453",2003,"Real Irish Republican Army (RIRA)","Bombing/Explosion",4
+"454",2003,"Red Hand Defenders (RHD)","Assassination",1
+"455",2003,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"456",2003,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"457",2004,"Real Irish Republican Army (RIRA)","Armed Assault",1
+"458",2004,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"459",2004,"Ulster Freedom Fighters (UFF)","Facility/Infrastructure Attack",1
+"460",2005,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"461",2005,"Protestant extremists","Bombing/Explosion",1
+"462",2005,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"463",2005,"Ulster Volunteer Force (UVF)","Bombing/Explosion",1
+"464",2006,"Irish Republican Army (IRA)","Assassination",1
+"465",2006,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"466",2006,"Oglaigh na hEireann","Bombing/Explosion",1
+"467",2006,"Protestant extremists","Bombing/Explosion",1
+"468",2007,"Continuity Irish Republican Army (CIRA)","Unarmed Assault",1
+"469",2007,"Dissident Republicans","Bombing/Explosion",1
+"470",2007,"Oglaigh na hEireann","Bombing/Explosion",3
+"471",2007,"Real Irish Republican Army (RIRA)","Armed Assault",2
+"472",2007,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",1
+"473",2008,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",1
+"474",2008,"Irish Republican Army (IRA)","Facility/Infrastructure Attack",1
+"475",2008,"Oglaigh na hEireann","Bombing/Explosion",1
+"476",2009,"Continuity Irish Republican Army (CIRA)","Armed Assault",1
+"477",2009,"Irish Republican Extremists","Facility/Infrastructure Attack",1
+"478",2009,"Irish Republican Extremists","Hijacking",4
+"479",2009,"Oglaigh na hEireann","Bombing/Explosion",3
+"480",2009,"Orange Volunteers (OV)","Bombing/Explosion",1
+"481",2009,"Real Irish Republican Army (RIRA)","Armed Assault",1
+"482",2010,"Irish Republican Extremists","Bombing/Explosion",7
+"483",2010,"Irish Republican Extremists","Facility/Infrastructure Attack",1
+"484",2010,"Oglaigh na hEireann","Bombing/Explosion",3
+"485",2010,"Oglaigh na hEireann","Hijacking",1
+"486",2010,"Real Irish Republican Army (RIRA)","Bombing/Explosion",1
+"487",2010,"Real Irish Republican Army (RIRA)","Facility/Infrastructure Attack",2
+"488",2010,"Real Irish Republican Army (RIRA)","Hijacking",1
+"489",2011,"Irish Republican Army (IRA)","Bombing/Explosion",1
+"490",2011,"Oglaigh na hEireann","Bombing/Explosion",1
+"491",2011,"Real Irish Republican Army (RIRA)","Armed Assault",1
+"492",2011,"Real Irish Republican Army (RIRA)","Bombing/Explosion",3
+"493",2012,"Dissident Republicans","Bombing/Explosion",6
+"494",2012,"Oglaigh na hEireann","Armed Assault",1
+"495",2012,"Oglaigh na hEireann","Bombing/Explosion",6
+"496",2012,"Real Irish Republican Army (RIRA)","Bombing/Explosion",1
+"497",2012,"The New Irish Republican Army","Armed Assault",2
+"498",2012,"The New Irish Republican Army","Bombing/Explosion",2
+"499",2012,"Ulster Volunteer Force (UVF)","Bombing/Explosion",2
+"500",2013,"Continuity Irish Republican Army (CIRA)","Facility/Infrastructure Attack",1
+"501",2013,"Dissident Republicans","Armed Assault",3
+"502",2013,"Dissident Republicans","Assassination",1
+"503",2013,"Dissident Republicans","Bombing/Explosion",14
+"504",2013,"Dissident Republicans","Facility/Infrastructure Attack",4
+"505",2013,"Dissident Republicans","Hijacking",1
+"506",2013,"Oglaigh na hEireann","Armed Assault",1
+"507",2013,"Oglaigh na hEireann","Bombing/Explosion",8
+"508",2013,"Oglaigh na hEireann","Facility/Infrastructure Attack",3
+"509",2013,"Oglaigh na hEireann","Hijacking",1
+"510",2013,"Protestant extremists","Armed Assault",1
+"511",2013,"The New Irish Republican Army","Armed Assault",4
+"512",2013,"The New Irish Republican Army","Bombing/Explosion",3
+"513",2013,"Ulster Freedom Fighters (UFF)","Armed Assault",1
+"514",2014,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",1
+"515",2014,"Dissident Republicans","Armed Assault",3
+"516",2014,"Dissident Republicans","Bombing/Explosion",8
+"517",2014,"Dissident Republicans","Facility/Infrastructure Attack",1
+"518",2014,"Oglaigh na hEireann","Armed Assault",1
+"519",2014,"Oglaigh na hEireann","Bombing/Explosion",1
+"520",2014,"The New Irish Republican Army","Bombing/Explosion",15
+"521",2014,"Ulster Volunteer Force (UVF)","Facility/Infrastructure Attack",1
+"522",2015,"Continuity Irish Republican Army (CIRA)","Bombing/Explosion",1
+"523",2015,"Dissident Republicans","Armed Assault",4
+"524",2015,"Dissident Republicans","Bombing/Explosion",15
+"525",2015,"Dissident Republicans","Facility/Infrastructure Attack",4
+"526",2015,"Dissident Republicans","Hostage Taking (Barricade Incident)",1
+"527",2015,"Oglaigh na hEireann","Bombing/Explosion",7
+"528",2015,"The New Irish Republican Army","Armed Assault",3
+"529",2015,"The New Irish Republican Army","Bombing/Explosion",2
+"530",2015,"The New Irish Republican Army","Facility/Infrastructure Attack",1
+"531",2015,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",2
+"532",2015,"Ulster Volunteer Force (UVF)","Armed Assault",2
+"533",2016,"Continuity Irish Republican Army (CIRA)","Armed Assault",1
+"534",2016,"Dissident Republicans","Armed Assault",7
+"535",2016,"Dissident Republicans","Assassination",1
+"536",2016,"Dissident Republicans","Bombing/Explosion",7
+"537",2016,"Dissident Republicans","Hijacking",1
+"538",2016,"Dissident Republicans","Hostage Taking (Kidnapping)",1
+"539",2016,"Irish National Liberation Army (INLA)","Armed Assault",2
+"540",2016,"Oglaigh na hEireann","Armed Assault",1
+"541",2016,"Oglaigh na hEireann","Hostage Taking (Kidnapping)",1
+"542",2016,"The New Irish Republican Army","Armed Assault",4
+"543",2016,"The New Irish Republican Army","Bombing/Explosion",2
+"544",2017,"Dissident Republicans","Armed Assault",5
+"545",2017,"Dissident Republicans","Bombing/Explosion",6
+"546",2017,"Dissident Republicans","Facility/Infrastructure Attack",1
+"547",2017,"Oglaigh na hEireann","Armed Assault",2
+"548",2017,"Oglaigh na hEireann","Bombing/Explosion",2
+"549",2017,"The New Irish Republican Army","Armed Assault",2
+"550",2017,"The New Irish Republican Army","Bombing/Explosion",4
+"551",2017,"Ulster Freedom Fighters (UFF)","Bombing/Explosion",3
+"552",2017,"Ulster Volunteer Force (UVF)","Armed Assault",1
+"553",2017,"Ulster Volunteer Force (UVF)","Facility/Infrastructure Attack",1
+"554",2017,"Ulster Volunteer Force (UVF)","Hijacking",1
+"555",2018,"Dissident Republicans","Armed Assault",5
+"556",2018,"Dissident Republicans","Bombing/Explosion",1
+"557",2018,"Dissident Republicans","Facility/Infrastructure Attack",4
+"558",2018,"Irish National Liberation Army (INLA)","Armed Assault",1
+"559",2018,"The New Irish Republican Army","Armed Assault",2
+"560",2018,"The New Irish Republican Army","Assassination",2
+"561",2018,"The New Irish Republican Army","Bombing/Explosion",1

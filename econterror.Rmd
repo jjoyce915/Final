@@ -1,0 +1,33 @@
+---
+title: "econterror.Rmd"
+author: "James Joyce"
+date: "11/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(ggplot2)
+```
+
+```{r}
+
+econ <- read_csv("Final/econ.csv") %>%
+  rename(country = country_name) %>%
+  rename(eq_dist = v2xeg_eqdr) %>%
+  select(-X1)
+
+terror <- read_csv("Final/terror.csv") %>%
+  rename(year = iyear) %>%
+  rename(country = country_txt) %>%
+  rename(terror_attacks = n) %>%
+  select(-X1)
+
+ec_ter <- full_join(econ, terror)
+
+write.csv(ec_ter, "Final/ec_ter.csv")
+
+
+```

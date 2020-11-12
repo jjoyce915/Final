@@ -1,0 +1,25 @@
+---
+title: "econ_data.Rmd"
+author: "James Joyce"
+date: "11/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(ggplot2)
+```
+
+```{r}
+
+v <- read_csv("Final/vdem.csv") 
+
+v1 <- v %>%
+    select(country_name, year, v2xeg_eqdr) %>%
+    filter(year >= 1970)
+
+write.csv(v1, "Final/econ.csv")
+
+```
