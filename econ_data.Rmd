@@ -14,11 +14,11 @@ library(ggplot2)
 
 ```{r}
 
-v <- read_csv("Final/vdem.csv") 
+v <- read_csv("Final/vdem_2.csv") 
 
 v1 <- v %>%
-    select(country_name, year, v2xeg_eqdr) %>%
-    filter(year >= 1970)
+    select(country_name, year, v2xeg_eqdr, e_wb_pop) %>%
+    filter(year >= 1970 & year != 2019)
 
 write.csv(v1, "Final/econ.csv")
 

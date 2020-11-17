@@ -15,17 +15,76 @@ library(ggplot2)
 ```{r}
 
 econ <- read_csv("Final/econ.csv") %>%
+  filter(year >= 1990) %>%
   rename(country = country_name) %>%
-  rename(eq_dist = v2xeg_eqdr) %>%
-  select(-X1)
+  rename(econ_equal = v2xeg_eqdr) %>%
+  rename(pop = e_wb_pop) %>%
+  select(-X1) %>%
+  filter(country != "Palestine/Gaza",
+         country != "Republic of Vietnam",
+         country != "Somaliland",
+         country != "Zanzibar") %>%
+  mutate_at("country", str_replace, "Burma/Myanmar", "Myanmar") %>%
+  mutate_at("country", str_replace, "Eswatini", "Swaziland") %>%
+  mutate_at("country", str_replace, "German Democratic Republic", "East Germany (GDR)") %>%
+  mutate_at("country", str_replace, "The Gambia", "Gambia")
 
 terror <- read_csv("Final/terror.csv") %>%
   rename(year = iyear) %>%
+  filter(year >= 1990) %>%
   rename(country = country_txt) %>%
   rename(terror_attacks = n) %>%
-  select(-X1)
+  select(-X1) %>%
+  filter(country != "Andorra",
+         country != "Antigua and Barbuda",
+         country != "Bahamas",
+         country != "Belize",
+         country != "Brunei",
+         country != "Czechoslovakia",
+         country != "Dominica",
+         country != "Grenada",
+         country != "International",
+         country != "People's Republic of the Congo",
+         country != "Serbia-Montenegro",
+         country != "South Vietnam",
+         country != "St. Kitts and Nevis",
+         country != "St. Lucia",
+         country != "Vatican City",
+         country != "Yugoslavia") %>%
+  mutate_at("country", str_replace, "Bosnia-Herzegovina", "Bosnia and Herzegovina") %>%
+  mutate_at("country", str_replace, "East Timor", "Timor-Leste") %>%
+  mutate_at("country", str_replace, "Falkland Islands", "United Kingdom") %>%
+  mutate_at("country", str_replace, "French Guinea", "Guinea") %>%
+  mutate_at("country", str_replace, "French Guiana", "France") %>%
+  mutate_at("country", str_replace, "French Polynesia", "France") %>%
+  mutate_at("country", str_replace, "Guadeloupe", "France") %>%
+  mutate_at("country", str_replace, "Macau", "Portugal") %>%
+  mutate_at("country", str_replace, "Macedonia", "North Macedonia") %>%
+  mutate_at("country", str_replace, "Martinique", "France") %>%
+  mutate_at("country", str_replace, "New Caledonia", "France") %>%
+  mutate_at("country", str_replace, "New Hebrides", "Vanuatu") %>%
+  mutate_at("country", str_replace, "North Yemen", "Yemen") %>%
+  mutate_at("country", str_replace, "Rhodesia", "Zimbabwe") %>%
+  mutate_at("country", str_replace, "Slovak Republic", "Slovakia") %>%
+  mutate_at("country", str_replace, "Soviet Union", "Russia") %>%
+  mutate_at("country", str_replace, "United States", "United States of America") %>%
+  mutate_at("country", str_replace, "Wallis and Futuna", "France") %>%
+  mutate_at("country", str_replace, "Western Sahara", "Morocco") %>%
+  mutate_at("country", str_replace, "Zaire", "Democratic Republic of the Congo") %>%
+  mutate_at("country", str_replace, "West Bank and Gaza Strip", "Palestine/West Bank") %>%
+  mutate_at("country", str_replace, "West Germany \\(FRG\\)", "Germany")
+  
 
-ec_ter <- full_join(econ, terror)
+ec_ter <- full_join(econ, terror, by = c("country", "year")) %>%
+  arrange(country) %>%
+  drop_na(pop) %>%
+  mutate(attacks_per_mil = terror_attacks/pop * 1000000)
+  
+ec_ter$terror_attacks <- ec_ter$terror_attacks %>% 
+  replace_na(0) 
+
+ec_ter$attacks_per_mil <- ec_ter$attacks_per_mil %>% 
+  replace_na(0) 
 
 write.csv(ec_ter, "Final/ec_ter.csv")
 
