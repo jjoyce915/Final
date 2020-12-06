@@ -10,14 +10,23 @@ library(shiny)
 library(shinythemes)
 library(tidyverse)
 
+# Data from my combined economic data and terror attack data, along with 
+# population data from each country
+
 combo <- read_csv("ec_ter.csv")
 
+# Location data for map
+
 data_map <- read_csv("map.csv")
+
+# USER INTERFACE STARTS HERE
 
 ui <- navbarPage(
   
   theme = shinytheme("flatly"),
   "Terrorism and Inequality",
+  
+  # Page that displays map
   
   tabPanel("Attack Map", 
            fluidPage(
@@ -38,6 +47,10 @@ ui <- navbarPage(
                                clearly, the threats posed by terrorism are not 
                                going away. The goal of this project is to 
                                evaluate why that is.")),
+                      
+                      # Slider so map can be chosen by year, animate is set to 
+                      # TRUE so that viewers can choose to display a progression
+                      
                       column(7,
                              sliderInput(inputId = "yearInput",
                                          label = "Year",
@@ -49,6 +62,8 @@ ui <- navbarPage(
                       )
              )
            ),
+  
+  # Page that displays my model and tables
     
      tabPanel("Economic Model",
               fluidPage(
@@ -89,6 +104,9 @@ ui <- navbarPage(
                                   zero-inflated negative binomal regression on
                                   my two variables. The result is displayed 
                                   below."))),
+                
+                # Model inserted here 
+                
                 fluidRow(column(12, 
                                 h3("Model"),
                                 h4("Zero-Inflated Negative Binomial Regression 
@@ -118,6 +136,10 @@ ui <- navbarPage(
                                    0.001, which means that I can be extremely
                                    confident in my model and the correlation it 
                                    displays.")),
+                         
+                         # Table inserted as image so that it doesn't need to 
+                         # reload each time
+                         
                          column(5,
                                 img(src = "Rplot.png", 
                                     height = 300, 
@@ -125,6 +147,8 @@ ui <- navbarPage(
                          )
                 )
               ),
+  
+  # Page displaying regression models by country
   
     tabPanel("Models by Country",
              fluidPage(
@@ -139,6 +163,9 @@ ui <- navbarPage(
                                  trend between economic equality and terror
                                  attack frequency, but the confidence intervals
                                  across countries varies."))),
+               
+               # Dropdown menu so viewers can select country
+               
                fluidRow(column(12,
                                h4("Zero-Inflated Negative Binomial Regression 
                                   Between Economic Equality and Terror Attack 
@@ -147,11 +174,16 @@ ui <- navbarPage(
                                                label = "Country",
                                                choices = unique(combo$country),
                                                selected = "Sudan"),
+                               
+                               # Plot inserted here
+                               
                                 plotOutput("Plot2")
                                )
                         )
                 )
               ),
+  
+  # About page, nothing interesting to see here
   
      tabPanel("About", 
               fluidPage(
@@ -180,9 +212,15 @@ ui <- navbarPage(
                 )
               )
   )
-                
+    
+
+
+
+# SERVER STARTS HERE            
 
 server <- function(input, output) {
+  
+  # Displays map, reactive so that viewers can change by year
     
     map <- reactive({
         filtered <- data_map %>%
@@ -191,13 +229,22 @@ server <- function(input, output) {
     
     output$mymap <- renderLeaflet({
         leaflet(map()) %>% 
+        
+        # Default view set to US
+        
             setView(lng = -99, lat = 45, zoom = 2)  %>% 
             addTiles() %>% 
             addCircles(data = map(), 
                        lat = ~ latitude, 
                        lng = ~ longitude, 
                        weight = 1, 
-                       radius = ~sqrt(nkill)*25000, 
+                       
+                       # Circles set to number of deaths per terrorist incident
+                       
+                       radius = ~sqrt(nkill)*25000,
+                       
+                       # Strings together group and number of deaths
+                       
                        label = ~as.character(paste0(attacktype1_txt, " by ", 
                                                     gname, " (", nkill, 
                                                     " deaths)")), 
@@ -205,16 +252,23 @@ server <- function(input, output) {
                        fillOpacity = 0.3)
     })
     
+    # Plot displaying first regression
+    
     output$Plot1 <- renderPlot({
         combo %>% 
             ggplot(aes(x = econ_equal, y = attacks_per_mil)) +
             geom_point() +
+        
+        # Regression done within geom_smooth(), ran glm.nb
+        
             geom_smooth(method = MASS::glm.nb, color = "blue", se = TRUE) +
             labs(x = "EDR Index",
                  y = "Number of Terror Attacks (per million people)",
                  caption = "This includes data from 1990 to 2018.") +
             theme_classic()
     })
+    
+    # Plot displaying by-country regressions
     
     comboCountry <- reactive({
       filtered <- combo %>%
